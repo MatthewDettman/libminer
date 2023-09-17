@@ -8,6 +8,7 @@
 #'
 #'
 #' @export
+#'
 #' @examples
 #'  lib_summary()
 lib_summary <- function(){
